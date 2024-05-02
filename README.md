@@ -2,9 +2,9 @@ Hi, this is my neovim configuration for web developement🧑‍💻
 
 <details>
 <summary>Screenshots:</summary>
-![neovim](https://github.com/lokeswaran-aj/neovim/blob/main/img/screenshot1.png)
-![neovim](https://github.com/lokeswaran-aj/neovim/blob/main/img/screenshot2.png)
-![neovim](https://github.com/lokeswaran-aj/neovim/blob/main/img/screenshot3.png)
+<img src="./img/screenshot1.png" height="400">
+<img src="./img/screenshot2.png" height="400">
+<img src="./img/screenshot3.png" height="400">
 </details>
 
 ## Prequisites:
